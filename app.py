@@ -258,11 +258,7 @@ if st.button(
         )
     else:
         st.warning(
-     import os
-            "Selecione os fornecedores e informe os preços para calcular a melhor opção."import os
-import pandas as pd
-import streamlit as st
-
+    
 st.set_page_config(
     page_title="TR - Sistema de Cotações | Transresíduos", layout="wide"
 )
