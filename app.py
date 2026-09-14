@@ -258,6 +258,7 @@ if st.button(
         )
     else:
         st.warning(
+     import os
             "Selecione os fornecedores e informe os preços para calcular a melhor opção."import os
 import pandas as pd
 import streamlit as st
